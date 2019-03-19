@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="NeedItTable" max_length="40" name="x_58872_needit_needittable" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element display="true" label="Surname" max_length="40" name="surname" type="string"/>
+    </element>
+</database>
